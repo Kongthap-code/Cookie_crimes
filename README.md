@@ -30,7 +30,7 @@ With just a single click, all cookies stored in the browser will be captured and
 
 ### 🌐 Server Side
 
-1. Navigate to the `folderserver` directory.
+1. Navigate to the `server` directory.
 2. Install required dependencies:
    ```bash
    npm install
